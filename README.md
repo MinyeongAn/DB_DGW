@@ -30,9 +30,13 @@ UI를 더 직설적으로 수정
 기존 게임의 플레이시간, 게임난이도 조정
 
 # UI 이미지
+[메인 페이지]
 ![메인](https://user-images.githubusercontent.com/49672285/56775911-5105c000-6804-11e9-9f4c-0a7840e7bfbf.png)
+[게임 목록]
 ![게임목록](https://user-images.githubusercontent.com/49672285/56775920-5bc05500-6804-11e9-8008-c2bad0bf46fa.png)
+[관리자 페이지]
 ![어드민](https://user-images.githubusercontent.com/49672285/56775930-64b12680-6804-11e9-93cc-f43d0bdc683c.png)
+[통계 확인 ]
 ![통계](https://user-images.githubusercontent.com/49672285/56775931-65e25380-6804-11e9-8dd4-3a0daf9be639.png)
 
 # 코드
